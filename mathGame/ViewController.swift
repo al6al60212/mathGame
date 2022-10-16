@@ -45,8 +45,6 @@ class ViewController: UIViewController {
             timer?.invalidate()
             //顯示成績alert
             let alert = UIAlertController(title: "時間到了～", message: "你答對了\(rightCount)題，成績是\(score)分", preferredStyle: .alert)
-            let okAction = UIAlertAction(title: "OK", style: .default)
-            alert.addAction(okAction)
             let replayAction = UIAlertAction(title: "再玩一次！", style: .default){_ in
                 self.replay()
             }
