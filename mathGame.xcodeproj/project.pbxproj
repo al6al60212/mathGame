@@ -13,6 +13,7 @@
 		CB9E4EBE28F90AE200AD4272 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB9E4EBC28F90AE200AD4272 /* Main.storyboard */; };
 		CB9E4EC028F90AE300AD4272 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CB9E4EBF28F90AE300AD4272 /* Assets.xcassets */; };
 		CB9E4EC328F90AE300AD4272 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB9E4EC128F90AE300AD4272 /* LaunchScreen.storyboard */; };
+		CB9E4ECB28F9127B00AD4272 /* Chalk.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CB9E4ECA28F9127B00AD4272 /* Chalk.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CB9E4EBF28F90AE300AD4272 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CB9E4EC228F90AE300AD4272 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CB9E4EC428F90AE300AD4272 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CB9E4ECA28F9127B00AD4272 /* Chalk.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Chalk.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				CB9E4EBF28F90AE300AD4272 /* Assets.xcassets */,
 				CB9E4EC128F90AE300AD4272 /* LaunchScreen.storyboard */,
 				CB9E4EC428F90AE300AD4272 /* Info.plist */,
+				CB9E4ECA28F9127B00AD4272 /* Chalk.ttf */,
 			);
 			path = mathGame;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CB9E4ECB28F9127B00AD4272 /* Chalk.ttf in Resources */,
 				CB9E4EC328F90AE300AD4272 /* LaunchScreen.storyboard in Resources */,
 				CB9E4EC028F90AE300AD4272 /* Assets.xcassets in Resources */,
 				CB9E4EBE28F90AE200AD4272 /* Main.storyboard in Resources */,
@@ -287,6 +291,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 2CWC533V7F;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = mathGame/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -314,6 +319,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 2CWC533V7F;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = mathGame/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
